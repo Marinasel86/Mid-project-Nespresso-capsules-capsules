@@ -1,0 +1,48 @@
+﻿Number,Capsule name,Intensite,Price for capsule,Size of cup type1,Size of cup type2,Origine,Price for 100 gr,Collection,Type of coffee,Organic
+1,Ispirazione Aosta,5,0.45,Espresso,NaN,South America,9.38,Collection Compostable,Arabica,No
+2,Ispirazione Emilia,7,0.45,Espresso,Ristretto,Mexique and Brasil,9.38,Collection Compostable,Arabica and Robusta,No
+3,Ispirazione Sicilia,8,0.45,Espresso,Ristretto,Latine America,9.38,Collection Compostable,Arabica,No
+4,Peru Organic,5,0.52,Espresso,NaN,Peru,10.83,Collection Compostable,Arabica,Yes
+5,Decaffeinato,7,0.48,Espresso,NaN,Peru,10,Collection Compostable,NaN,No
+6,Tamuka mu Zimbabwe,5,0.67,Espresso,Lungo,Zimbabwe,12.18,Reviving Origins,Arabica,No
+7,Cafecito de Cuba,10,1.3,Espresso,Lungo,Cuba,22.81,Reviving Origins,Arabica,No
+8,Kahawa ya Congo Organic,7,0.69,Espresso,Lungo,Congo,12.55,Reviving Origins,Arabica,Yes
+9,Ethiopa Organic,4,0.52,Espresso,Lungo,Ethiopa,9.29,Reviving Origins,Arabica,Yes
+10,Peru Organic,6,0.52,Espresso,Lungo,Peru,8.97,Reviving Origins,Arabica,Yes
+11,Indonesia Organic,8,0.52,Espresso,Lungo,Indonesia,5.2,Reviving Origins,Arabica,Yes
+12,India,11,0.49,Espresso,Lungo,India,8.91,Reviving Origins,Robusta,No
+13,Columbia,6,0.49,Espresso,Lungo,Columbia,8.6,Reviving Origins,Arabica,No
+14,Nicaragua,5,0.49,Espresso,Lungo,Nicaragua,9.8,Reviving Origins,Arabica,No
+15,Nr 20,NaN,2.5,Espresso,NaN,Colombie,23.58,Special Reserve,Arabica,No
+16,Hawaii Kona,NaN,1.5,Espresso,NaN,Hawaii,25.86,Special Reserve,Arabica,No
+17,Galapagos,NaN,1.5,Espresso,NaN,Galapagos,25.86,Special Reserve,NaN,No
+18,Capriccio,5,0.43,Espresso,NaN,"Bresil, Colombie",8.96,Espresso,Arabica,No
+19,Volluto,4,0.43,Espresso,NaN,"Bresil, Colombie",8.78,Espresso,Arabica,No
+20,Cosi,4,0.43,Espresso,NaN,"Costa Rica, Kenya",8.96,Espresso,Arabica,No
+21,Napoli,13,0.46,Espresso,Ristretto,"Latin America, Ouganda",8.07,Ispirazione Italiana,Robusta,No
+22,Kazaar,12,0.43,Espresso,Ristretto,Latin America ,7.17,Ispirazione Italiana,Robusta,No
+23,Ristretto,10,0.43,Espresso,Ristretto,"Latin America, India and West Africa",7.54,Ispirazione Italiana,Ristretto,No
+24,Arpeggio,9,0.43,Espresso,Ristretto,"Bresil, Costa Rica",8.11,Ispirazione Italiana,Arabica,No
+25,Venezia,8,0.46,Espresso,Ristretto,Latin America,8.21,Ispirazione Italiana,Arabica,No
+26,Roma,8,0.43,Espresso,Ristretto,Latin America,8.6,Ispirazione Italiana,Arabica and Robusta,No
+27,Livanto,6,0.43,Espresso,NaN,Latin America,8.11,Ispirazione Italiana,Arabica,No
+28,Paris Espresso,6,0.46,Espresso,NaN,"Bresil, Columbia, Vietnam",8.21,World Eplorations,Arabica,No
+29,Rio de Janeiro Espresso,9,0.46,Espresso,NaN,Bresil,8.36,World Eplorations,Arabica,No
+30,Istambul Espresso,8,0.46,Ristretto,NaN,"Ethiopia, India",8.21,World Eplorations,Arabica and Robusta,No
+31,Shanghai Lungo,5,0.46,Lungo,NaN,"Kenya, China",8.21,World Eplorations,Arabica,No
+32,Bueanos Aires Lungo,4,0.46,Lungo,NaN,"Columbia, Ouganda",8.21,World Eplorations,Arabica and Robusta,No
+33,Stockholm Lungo,8,0.46,Lungo,NaN,"Columbia, Costa Rica, Inde",7.67,World Eplorations,Arabica,No
+34,Vienna Lungo,6,0.46,Lungo,NaN,"Bresil, Columbia",8.36,World Eplorations,Arabica,No
+35,Tokyo Lungo,6,0.46,Lungo,NaN,"Éthiopie, Mexique",7.93,World Eplorations,Arabica,No
+36,Café Joyeux,5,0.49,Espresso,Lungo,"Ouganda, China",9.42,Café Joyeux,Arabica,No
+37,Ristretto Decaffeinato,10,0.46,Ristretto,Espresso,"Latin America, India, West Africa",8.07,Decaffeinato,Arabica and Robusta,No
+38,Arpeggio Decaffeinato,9,0.46,Espresso,Recette,"Brasil, Costa Rica",8.36,Decaffeinato,Arabica,No
+39,Volluto Decaffeinato,4,0.46,Espresso,NaN,"Brasil, Columbia",9.39,Decaffeinato,Arabica,No
+40,Nocciola,NaN,0.49,Lungo,Recette,"Columbia, Brasil",9.8,Barista Creations,Arabica,No
+41,Vaniglia,NaN,0.49,Lungo,Recette,"Columbia, Brasil",9.8,Barista Creations,Arabica,No
+42,Caramello,NaN,0.49,Lungo,Recette,"Columbia, Brasil",9.8,Barista Creations,Arabica,No
+43,Filter style Mild,NaN,0.43,Lungo,NaN,"Columbia, Kenya",8.96,Barista Creations,NaN,No
+44,Filter Style Intense,NaN,0.43,Lungo,NaN,"Columbia, Brasil",8.96,Barista Creations,NaN,No
+45,Scuro,NaN,0.49,Recette,NaN,"Columbia, Ethiopia",8.91,Barista Creations,Arabica,No
+46,Corto,NaN,0.49,Recette,NaN,"Columbia, Ethiopia",8.91,Barista Creations,Arabica,No
+47,Chiaro,NaN,0.49,Recette,NaN,"Kenya, Indonesia",10.21,Barista Creations,Arabica,No
